@@ -1,1 +1,1 @@
-Foodlog is a tool I created for myself to keep trace of what I eat everyday.
+I use this to keep track of what I eat everyday.
