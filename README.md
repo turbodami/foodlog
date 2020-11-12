@@ -1,1 +1,1 @@
-I use this to keep track of what I eat everyday.
+keep track of what you eat with some lines of Ruby 🍜
